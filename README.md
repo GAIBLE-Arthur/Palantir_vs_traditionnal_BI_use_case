@@ -22,7 +22,7 @@ Complex SQL transformations are mapped to business concepts and properties, allo
 
 This approach reduces cognitive load, improves alignment with business reality, and bridges the gap between data and operations.
 
-2. The Action Layer (Write-back)
+2. The Action Layer (Write-back):
 
 The core weakness of traditional BI tools such as Power BI is their read-only nature. A robust data architecture must go beyond visualization and enable action:
 
