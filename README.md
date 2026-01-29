@@ -14,10 +14,10 @@ To address this gap, Palantir introduces a shift from Passive Reporting to Activ
 
 Traditional BI relies on flat tables and schemas that users must understand and mentally reconstruct. This project instead promotes an ontology-based approach:
 
-Object-Centric Modeling
+Object-Centric Modeling:
 Rather than querying Table_X_v2_final, users interact with real-world objects such as Shipment, Factory, or Employee.
 
-Semantic Mapping
+Semantic Mapping:
 Complex SQL transformations are mapped to business concepts and properties, allowing users to work in their own language instead of technical abstractions.
 
 This approach reduces cognitive load, improves alignment with business reality, and bridges the gap between data and operations.
