@@ -8,7 +8,7 @@ However, these tools show  limitations when it comes to actionability. While Pow
 
 In practice, building visually appealing dashboards often requires significant time and heavy code manipulation (advanced SQL queries, complex DAX expressions). When business needs are poorly understood, this frequently results in wasted effort: frameworks are built, dashboards are published, but they are neither used nor trusted for strategic decision-making.
 
-To address this gap, Palantir introduces a shift from Passive Reporting to Active Operations. While traditional BI focuses on the What, modern operational platforms focus on the How and the Now.
+To address this gap, Palantir introduces a shift from Passive Reporting to Active Operations. While traditional BI focuses on the What, modern operational platforms focus on the How.
 
 1. Ontology: 
 
@@ -31,3 +31,11 @@ Data-driven decisions must be pushed back into operational systems (ERP, CRM, pl
 
 Simulations
 Instead of reporting disruptions after they occur, users should be able to simulate scenarios (e.g. supply chain disruptions, capacity constraints) and evaluate outcomes before decisions are executed.
+
+To assess this assumption, we are gonna treat the same problem (the case of 3 plants of the pharmaceutical sector with differents workways) using:
+
+- Traditionnal tools ; SQL, Power BI 
+
+- Palantir Foundry
+
+Andiamo !
